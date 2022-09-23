@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hsuraweera.github.io/static/css/main.8e19cb6b.css",
+    "main.js": "/hsuraweera.github.io/static/js/main.53260f9e.js",
+    "index.html": "/hsuraweera.github.io/index.html",
+    "main.8e19cb6b.css.map": "/hsuraweera.github.io/static/css/main.8e19cb6b.css.map",
+    "main.53260f9e.js.map": "/hsuraweera.github.io/static/js/main.53260f9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e19cb6b.css",
+    "static/js/main.53260f9e.js"
+  ]
+}
